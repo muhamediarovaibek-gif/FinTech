@@ -12,11 +12,13 @@ node_modules/
 .next/
 out/
 dist/
+*.tsbuildinfo
 
 # Environment variables
 .env
 .env.*
 !.env.example
+!.env.local.example
 
 # Uploaded datasets
 backend/uploads/
