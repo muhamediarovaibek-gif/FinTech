@@ -1,0 +1,16 @@
+.git
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+**/node_modules/
+**/.next/
+
+**/.env
+**/.env.*
+**/!.env.example
+
+ml/models/
+ml/data/
+backend/uploads/

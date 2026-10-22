@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Next.js
+node_modules/
+.next/
+out/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Uploaded datasets
+backend/uploads/
+ml/data/raw/
+
+# Trained ML models
+ml/models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
