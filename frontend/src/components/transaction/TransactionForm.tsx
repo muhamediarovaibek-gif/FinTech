@@ -1,6 +1,6 @@
 "use client";
 
-import AnalysisResultCard from "@/components/AnalysisResultCard";
+import AnalysisResultCard from "@/components/transaction/AnalysisResultCard";
 import { useState, type FormEvent } from "react";
 import axios from "axios";
 

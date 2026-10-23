@@ -1,5 +1,5 @@
 import type { AnalysisResult } from "@/types/analysis";
-import Explanation from "@/components/Explanation";
+import Explanation from "@/components/transaction/Explanation";
 
 interface AnalysisResultCardProps {
   result: AnalysisResult;

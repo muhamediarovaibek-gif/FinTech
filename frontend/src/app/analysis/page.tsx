@@ -1,4 +1,4 @@
-import TransactionForm from "@/components/TransactionForm";
+import TransactionForm from "@/components/transaction/TransactionForm";
 
 export default function AnalysisPage() {
   return (
